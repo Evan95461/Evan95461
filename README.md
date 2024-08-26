@@ -2,7 +2,7 @@
 
 # 💻 Tech Stack:
 # 📊 GitHub Stats:
-<img src = "https://github-readme-stats.vercel.app/api?username=Evan95461&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" width = "50%"><br/>
+<img src = "https://github-readme-stats.vercel.app/api?username=Evan95461&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" align = "center">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Evan95461&theme=tokyonight)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evan95461&theme=tokyonight)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan95461&theme=tokyonight&include_all_commits=false&count_private=true&layout=compact)
