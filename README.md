@@ -6,8 +6,8 @@
 <div align = "center"></br>
   <a href = "https://git.io/typing-svg"><img src = "https://readme-typing-svg.demolab.com?font=Lexend&weight=600&size=23&letterSpacing=&duration=3000&pause=1000&color=F78131&background=1C1F1B00&center=true&vCenter=true&width=435&lines=Un+d%C3%A9veloppeur+random;qui+fait+des+trucs+randoms;%C3%A0+l'aide+de+ses+connaissances." alt="Typing SVG" /></a></br>
 
-  ---
-  <img src = "https://dcbadge.limes.pink/api/shield/705126923210326077" alt = "evanwastaken_">
+  ---  
+  ![d](https://dcbadge.limes.pink/api/shield/705126923210326077)
 </div>
 
 <!-- à propos -->
