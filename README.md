@@ -7,6 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Evan95461&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Evan95461&theme=dark&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evan95461&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Evan95461&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
