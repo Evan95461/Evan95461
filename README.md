@@ -8,7 +8,7 @@
 
   ---  
   <img src = "https://dcbadge.limes.pink/api/shield/705126923210326077" alt = "evanwastaken_"/>
-  <img src = "https://dcbadge.limes.pink/api/server/https://discord.gg/zz4EBykdJ9" alt = "map_resell_invite"/></br></br>
+  <a href = "https://discord.gg/zz4EBykdJ9"><img src = "https://dcbadge.limes.pink/api/server/https://discord.gg/zz4EBykdJ9" alt = "map_resell_invite"/></a></br></br>
   <img src = "https://visitcount.itsvg.in/api?id=Evan95461&icon=6&color=6" alt = "compteur_vues"/>
 </div>
 
